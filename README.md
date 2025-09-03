@@ -1,7 +1,7 @@
 # ElevvoPathways - Machine Learning Internship Tasks 🚀
 
 This repository contains machine learning projects completed as part of my internship with **Elevvo Pathways**.  
-Each task is designed to explore core ML concepts like regression, clustering, classification, and forecasting using real-world datasets.
+Each task is designed to explore core ML concepts like regression, clustering, and classification using real-world datasets.
 
 ---
 
@@ -22,12 +22,7 @@ Each task is designed to explore core ML concepts like regression, clustering, c
 - Used XGBoost Classifier for better accuracy  
 - **Bonus:** Feature importance visualization  
 
-✅ **Task 4: Walmart Sales Forecasting**  
-- Built forecasting models to predict Walmart sales trends  
-- Applied regression models on time-series sales data  
-- **Bonus:** Compared forecast accuracy and visualized predictions vs. actual sales  
-
-✅ **Task 5: Loan Approval Prediction**  
+✅ **Task 4: Loan Approval Prediction**  
 - Built ML models to predict loan approval based on applicant details  
 - Preprocessed categorical & numerical features using pipelines  
 - Compared **Logistic Regression, Decision Tree, and Random Forest**  
